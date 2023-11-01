@@ -1,0 +1,14 @@
+:root {
+    --bg-light: rgb(247, 246, 246); 
+    --bg-dark: black; 
+}
+
+body {
+    padding: 0px 60px;
+    background-color: var(--bg-light); 
+}
+
+
+.dark body {
+    background-color: var(--bg-dark); 
+}
